@@ -1,8 +1,8 @@
-# arasgungore-CV
+# morallito-CV
 
 My curriculum vitae (CV) written using LaTeX. In my CV, you may find my contact information, websites, education, experience, achievements, projects, and skills.
 
-Please find attached my [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing). 😜
+Please find attached my [CV](). 
 
 
 
@@ -25,7 +25,7 @@ pdflatex main.tex
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Iago H. Moreira**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@aiagohmoreira](https://www.linkedin.com/in/iagohmoreira/)
+* GitHub: [@morallito](https://github.com/morallito)
